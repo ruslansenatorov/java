@@ -17,7 +17,6 @@ public class Sum {
                     b = j + 1;
                 }
             }
-
         }
         System.out.println(sum);
     }
